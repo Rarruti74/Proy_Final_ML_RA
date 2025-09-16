@@ -1,0 +1,11 @@
+[project]
+name = "proy-final-ml-ra"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "seaborn>=0.13.2",
+    "skrub>=0.6.1",
+    "ydata-profiling>=4.12.2",
+]
